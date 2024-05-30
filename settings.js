@@ -12,23 +12,23 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: Fraszz" //ur yt chanel name
-global.socialm = "GitHub: Linkiddrak" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: lion-hearthX" //ur github or insta name
+global.location = "haiti, saint-marc, Aizawl" //ur location
 
 //new
-global.botname = 'Raizen Bot MD V13' //ur bot Name
-global.ownernumber = '22871255034' //ur owner number
-global.ownername = 'Raizen' //ur owner name
+global.botname = 'lion❦hearth'//ur bot Name
+global.ownernumber ='41543050' //ur owner number
+global.ownername = `『Lɪoɴԋҽαɾƚԋ❦』'//ur owner name
 global.websitex = "https://www.youtube.com/@FraszHost"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
-global.themeemoji = '❄️'
+global.themeemoji = '❦'
 global.wm = "Darki Bot Inc."
 global.botscript = 'https://github.com/Linkiddrak/Frasz13' //script link
 global.packname = "Sticker By"
 global.author = "❄️Raizen"
-global.creator = "22871255034@s.whatsapp.net"
+global.creator = "50941543050@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["22871255034"] // Premium User
+global.premium =50941543050"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -38,8 +38,8 @@ global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
+global.autoswview = true//auto status/story view
+global.adminevent = true //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
 global.mess = {
